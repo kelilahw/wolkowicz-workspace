@@ -1,6 +1,6 @@
 ---
 name: Kelilah Wolkowicz
-image: images/photo.jpg
+image: images/wolkowicz-headshot.png
 role: principal-investigator
 affiliation: University of Massachusetts Lowell
 aliases:
