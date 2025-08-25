@@ -1,16 +1,16 @@
 # site properties and page defaults
-title: kelilahw
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Wolkowicz Workspace
+subtitle: U-CARE Lab
+description: The Wolkowicz Workspace (User-Centered Assistive and Rehabilitative Robotics Engineering - U-CARE) is dedicated to advancing human-centered innovation in assistive and rehabilitative technologies. Our team collaborates with wheelchair useres, clinicians, and students to design, prototype, and evaluate next-generation robotic systems that enhance mobility, support rehabilitation, and promote independence.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@kelilahw.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: kelilah_wolkowicz@uml.edu
+  orcid: 0000-0002-9788-3502
+  google-scholar: https://scholar.google.com/citations?hl=en&user=DQwmmCIAAAAJ&view_op=list_works&gmla=AH8HC4xoJcocnUUAt5nhquEd5L68o8iax0b2kN8KB5YTxXQh0JIwXhQEpQPubVqLDAVDX7e7KqKrvX-JdND6HvPn
   github: kelilahw
   twitter: kelilahw
   youtube: kelilahw
